@@ -1,6 +1,6 @@
 # fortran_float_num_extract
 
-A command-line tool written for [**PRIMA #??**](https://github.com/libprima/prima)
+A command-line tool written for [**PRIMA #302**](https://github.com/libprima/prima/pull/302)
 that scans Fortran source code to identify floating-point literals lacking a
 precision kind suffix and not exactly representable in binary floating-point
 format.
